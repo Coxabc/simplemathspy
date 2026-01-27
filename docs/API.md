@@ -6,6 +6,8 @@
 
 ::: simplemathspy.add_numbers.add
 
+::: simplemaths.py.duplicate_mitch.duplicate_mitch
+
 ::: simplemathspy.multiply3
 
 ::: simplemathspy.pctformat
